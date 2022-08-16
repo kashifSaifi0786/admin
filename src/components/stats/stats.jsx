@@ -76,8 +76,7 @@ const Stats = () => {
       <Box
         sx={{
           p: 1,
-          height: "300px",
-          width: "250px",
+
           borderRadius: "20px",
           boxShadow: 4,
           display: "flex",
@@ -135,8 +134,6 @@ const Stats = () => {
       <Box
         sx={{
           p: 1,
-          height: "300px",
-          width: "250px",
           borderRadius: "20px",
           boxShadow: 4,
           display: "flex",
@@ -164,8 +161,6 @@ const Stats = () => {
       <Box
         sx={{
           p: 1,
-          height: "300px",
-          width: "250px",
           borderRadius: "20px",
           boxShadow: 4,
           display: "flex",

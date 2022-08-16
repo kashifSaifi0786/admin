@@ -40,3 +40,17 @@
 .overview-right {
   margin-top: 20px;
 }
+
+@media screen and (max-width: 1120px) {
+  .overview-container {
+    display: block;
+  }
+}
+@media screen and (max-width: 817px) {
+  .overview-right {
+    display: none;
+  }
+  .overview-left {
+    margin-right: 0;
+  }
+}

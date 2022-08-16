@@ -10,8 +10,8 @@ const Widget = ({ type }) => {
   return (
     <Box
       sx={{
-        height: 100,
-        width: "32.3%",
+        p: 1,
+
         backgroundColor: "white",
         display: "flex",
         flex: 1,

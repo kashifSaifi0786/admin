@@ -9,6 +9,7 @@ import KeyboardArrowUpOutlinedIcon from "@mui/icons-material/KeyboardArrowUpOutl
 const Feature = () => {
   return (
     <Box
+      className="feature-container"
       sx={{
         mx: 2,
         borderRadius: "20px",

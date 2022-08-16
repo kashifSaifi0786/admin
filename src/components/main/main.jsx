@@ -22,7 +22,6 @@ const Main = () => {
         </div>
         <Box
           sx={{
-            height: "70vh",
             width: "100%",
             my: 2,
             p: "10px",
