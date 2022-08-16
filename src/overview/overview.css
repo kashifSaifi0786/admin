@@ -1,0 +1,42 @@
+.overview-container {
+  display: flex;
+  align-items: center;
+}
+
+.overview-left {
+  display: flex;
+  flex-direction: column;
+  margin-right: 70px;
+}
+
+.overview-desc {
+  font-size: 14px;
+  color: rgb(171, 163, 163);
+}
+.overview-counter {
+  display: flex;
+}
+.perc {
+  font-size: 12px;
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.overview-positive {
+  color: green;
+}
+.data-row {
+  margin-top: 12px;
+}
+.data-items {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.overview-item {
+  padding: 5px;
+}
+.overview-right {
+  margin-top: 20px;
+}

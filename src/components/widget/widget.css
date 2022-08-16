@@ -1,0 +1,25 @@
+.left,
+.right {
+  margin: 6px;
+}
+.left {
+  display: flex;
+}
+.left .icon {
+  color: white;
+  display: flex;
+  width: 40px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 147, 0);
+  border-radius: 10px;
+}
+.details {
+  margin-left: 4px;
+}
+.title {
+  font-weight: bold;
+  font-size: 14px;
+  color: rgb(160, 160, 160);
+}

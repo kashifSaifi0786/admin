@@ -1,0 +1,51 @@
+.stats-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.stats-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.stats-select {
+  border: none;
+}
+.stats-counter {
+  font-size: 20px;
+}
+.activity-chart {
+  margin-top: 10px;
+}
+.stats-dots {
+  font-size: 24px;
+}
+.top-product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+}
+.number {
+  background-color: rgb(94, 118, 255);
+  color: white;
+  height: 25px;
+  width: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+.product-data {
+  flex: 2;
+  margin: 0 10px;
+}
+.collection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(200, 197, 197);
+  padding: 5px;
+  border-radius: 10px;
+}
