@@ -2,7 +2,7 @@ import Box from "@mui/material/Box";
 import Widget from "../widget/widget";
 import Feature from "../feature/feature";
 import "./main.css";
-import Overview from "../../overview/overview";
+import Overview from "../overview/overview";
 import Stats from "./../stats/stats";
 
 const Main = () => {
